@@ -356,10 +356,4 @@ Distribuído sob a **Licença de Uso Educacional**.
 
 Uso comercial sem autorização é proibido.
 
----
 
-# 💬 Créditos
-
-* **JARVIS Framework Team**
-* **Anthropic**
-* Comunidade Red Team & CTF

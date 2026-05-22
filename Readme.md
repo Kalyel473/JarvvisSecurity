@@ -124,7 +124,7 @@ JARVIS Ultra Pro Max Plus — LOUCURA TOTAL — v9.9.9
 
 ```bash
 # Clone o repositório
-git clone https://github.com/your-repo/jarvis.git
+git clone https://github.com/kalyel473/jarvis.git
 
 # Entre na pasta
 cd jarvis
